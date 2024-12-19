@@ -1,0 +1,19 @@
+{
+    "messageCallbackHandler": "router:ServerMessagePush",
+    "data": {
+        "type": 401,
+        "data": {
+            "symbols": [],
+            "bonusInfo": [],
+            "result": {
+                "rewardWinInfo": {
+                    "isWin": true,
+                    "odds": 0,
+                    "rewardTime": 3,
+                    "bonusCount": 4,
+                    "isWinSymbols": [null, 5,null, null, null,10, null, null, null, null]
+                }
+            }
+        }
+    }
+}
